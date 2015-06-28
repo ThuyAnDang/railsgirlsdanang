@@ -1,2 +1,3 @@
 # railsgirlsdanang
-Sample Repository
+HelloRailsGirlsDaNang
+I'm ThuyAnDang
